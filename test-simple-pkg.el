@@ -1,2 +1,0 @@
-;; Generated package description from test-simple.el  -*- no-byte-compile: t -*-
-(define-package "test-simple" "1.3.0.0.20230916.123447" "Simple Unit Test Framework for Emacs Lisp" '((cl-lib "0")) :commit "8b191842318bb05da74052025192d32ebebb033a" :authors '(("Rocky Bernstein" . "rocky@gnu.org")) :maintainer '("Rocky Bernstein" . "rocky@gnu.org") :keywords '("unit-test") :url "https://github.com/rocky/emacs-test-simple")
